@@ -20,7 +20,7 @@
 #include <pcl/point_cloud.h>
 
 #include <geometry_msgs/msg/twist_stamped.hpp>
-#include <tf2_geometry_msgs/tf2_geometry_msgs.h>
+#include <tf2_geometry_msgs/tf2_geometry_msgs.hpp>
 
 #include <velodyne_pointcloud/point_types.h>
 
